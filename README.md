@@ -46,13 +46,13 @@ SQL was used to aggregate and investigate the dataset according to the analytica
 The final dashboard was developed in Power BI to present the results of the analysis visually and make the major patterns and findings easier to interpret.
 "Traffic Accident Dashboard" (traffic-accident-dashboard.png)
 ## Project Files
-### Data Cleaning SQL
+#### Data Cleaning SQL
 Contains the SQL queries used to inspect, clean, and prepare the dataset for analysis.
-### Exploratory Data Analysis SQL
+#### Exploratory Data Analysis SQL
 Contains the SQL queries used to investigate the analytical questions and derive the project's findings.
-### Power BI Dashboard
+#### Power BI Dashboard
 Contains the completed Power BI dashboard used to visualize the analysis.
-### Dashboard Screenshot
+#### Dashboard Screenshot
 A preview of the completed Power BI dashboard.
 ## Outcome
 The analysis provided an overview of traffic accident patterns across different environmental, roadway, crash, and injury-related factors. The project demonstrates an end-to-end workflow involving data quality assessment, SQL-based cleaning, exploratory analysis, and Power BI visualization.
