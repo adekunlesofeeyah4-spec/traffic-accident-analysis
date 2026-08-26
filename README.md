@@ -1,4 +1,4 @@
-# traffic-accident-analysis
+# Traffic Accident Analysis
 Analysis of traffic accident patterns, injury severity, road conditions, and contributing factors using SQL and Power BI
 ## Project Overview
 This project analyzes traffic accident data to identify patterns in crash occurrences, injury severity, road conditions, lighting conditions, weather conditions, and factors contributing to crashes. The analysis focuses on identifying patterns that can provide insight into accident severity and the conditions associated with higher crash and injury occurrences.
